@@ -1,0 +1,20 @@
+{
+    "language_code": "az",
+    "english_name": "Azerbaijani",
+    "worksheets": [
+        {
+            "page": "Forgiving_Step_by_Step",
+            "title": "Add\u0131m-Add\u0131m Ba\u011f\u0131\u015flamaq",
+            "filename": "Add\u0131m-Add\u0131m_Ba\u011f\u0131\u015flamaq.html",
+            "version": "1.0",
+            "pdf": "Add\u0131m-add\u0131m_ba\u011f\u0131\u015flamaq.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Starting_with_the_Creation)",
+            "title": "Bibliyan\u0131 oxumaq g\u00f6st\u0259ri\u015fl\u0259ri",
+            "filename": "Bibliyan\u0131_oxumaq_g\u00f6st\u0259ri\u015fl\u0259ri.html",
+            "version": "2.0",
+            "pdf": "Bibliyan\u0131_oxumaq_g\u00f6st\u0259ri\u015fl\u0259ri.pdf"
+        }
+    ]
+}
